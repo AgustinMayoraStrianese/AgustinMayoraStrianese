@@ -5,7 +5,7 @@
   <p align="center">
   <br>
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F784DD&center=true&width=435&lines=Full-stack+Developer;Cobol+Developer;And;Backend+Java+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FAC33C&center=true&width=435&lines=Full-stack+Developer;Cobol+Developer;And;Backend+Java+Developer" alt="Typing SVG" /></a>
 </p>
   <img src="https://snap.licdn.com/tr/W9_8dfFmyr0AAAAC/pixel-game.gif" width="200"/>
   

@@ -13,7 +13,7 @@
 <br>
 </div>
   
-<p align="left">  I'm a 32-year-old passionate junior developer with experience in a variety of technologies. My primary focus has been on developing enterprise applications using Cobol, Db2,Cics, and Java, which has allowed me to understand the importance of robustness and performance in the business world.</p> 
+# <p align="left">  I'm a 32-year-old passionate junior developer with experience in a variety of technologies. My primary focus has been on developing enterprise applications using Cobol, Db2,Cics, and Java, which has allowed me to understand the importance of robustness and performance in the business world.</p> 
 <br>
   </div>
 

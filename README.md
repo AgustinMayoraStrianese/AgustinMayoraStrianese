@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://i.pinimg.com/originals/77/ca/a3/77caa32884d735d439ade45ba37feaf2.gif" height="400" width="800"/>
+</div>
+  
 
 # <h1 align="center">👋I'm Agustin Mayora Strianese</h1>
 <div id="header" align="center">

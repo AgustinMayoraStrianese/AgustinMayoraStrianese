@@ -31,11 +31,7 @@
 #### - 💬 Ask me about Cobol, Java and React.
 #### - 📫 How to reach me: a.mayora@live.com.
 #### - 💻 [![Linkedin Badge](https://img.shields.io/badge/-MayoraAgustin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-mayora-s/)
-
-<div>
-<br>
-<br>
-</div>
+---
 
 ### 🧰 Languages and Tools
 #### - OpenCobol IDE

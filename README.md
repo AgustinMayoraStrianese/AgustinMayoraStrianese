@@ -11,7 +11,6 @@
   
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FAC33C&center=true&width=435&lines=Full-stack+Developer;Cobol+Developer;And;Backend+Java+Developer" alt="Typing SVG" /></a>
 </p>
-  <img src="https://snap.licdn.com/tr/W9_8dfFmyr0AAAAC/pixel-game.gif" width="200"/>
   
  <div>
 <br>
@@ -19,7 +18,10 @@
   
 # <p align="left">  I'm a 32-year-old passionate junior developer with experience in a variety of technologies. My primary focus has been on developing enterprise applications using Cobol, Db2,Cics, and Java, which has allowed me to understand the importance of robustness and performance in the business world.</p> 
 <br>
+<img src="https://snap.licdn.com/tr/W9_8dfFmyr0AAAAC/pixel-game.gif" width="200"/>
   </div>
+  
+  
 
 ###
 #### - 🌱 I’m currently learning about Cobol, Mainframe, Db2 and CICS.

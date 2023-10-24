@@ -13,7 +13,7 @@
 </p>
   
   
-<h3 align="left">  I'm a 32-year-old passionate junior developer with experience in a variety of technologies. My primary focus has been on developing enterprise applications using Cobol, Db2,Cics, and Java, which has allowed me to understand the importance of robustness and performance in the business world.</h3> 
+<h3 align="left">  I'm a 32-year-old passionate Junior Developer with experience in a variety of technologies. My primary focus has been on developing enterprise applications using COBOL, DB2,CICS, and Java, which has allowed me to understand the importance of robustness and performance in the business world.</h3> 
  <div>
    <br>
    <br>
@@ -26,7 +26,7 @@
 </div>
 
 ###
-#### - 🌱 I’m currently learning about Cobol, Mainframe, Db2 and CICS.
+#### - 🌱 I’m currently learning about COBOL, Mainframe, DB2 and CICS.
 #### - 👯 I am looking to collaborate on projects on Cobol and Mainframe both in large companies and banks, as well as in start-ups.
 #### - 💬 Ask me about Cobol, Java and React.
 #### - 📫 How to reach me: a.mayora@live.com.

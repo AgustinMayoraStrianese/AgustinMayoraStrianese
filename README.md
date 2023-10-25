@@ -26,7 +26,7 @@
 </div>
 
 ###
-#### - 🌱 I’m currently learning about COBOL, Mainframe, DB2 and CICS.
+#### - 🌱 I’m currently learning about COBOL and JAVA.
 #### - 👯 I am looking to collaborate on projects on Cobol and Mainframe both in large companies and banks, as well as in start-ups.
 #### - 💬 Ask me about Cobol, Java and React.
 #### - 📫 How to reach me: a.mayora@live.com.

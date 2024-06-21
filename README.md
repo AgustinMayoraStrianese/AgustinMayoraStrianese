@@ -13,7 +13,7 @@
 </p>
   
   
-<h3 align="left">  I'm a 32-year-old passionate Junior Developer with experience in a variety of technologies. My primary focus has been on developing enterprise applications using COBOL and Java, which has allowed me to understand the importance of robustness and performance in the business world.</h3> 
+<h3 align="left">  I'm a 33-year-old passionate Junior Developer with experience in a variety of technologies. My primary focus has been on developing enterprise applications using COBOL and Java, which has allowed me to understand the importance of robustness and performance in the business world.</h3> 
  <div>
    <br>
    <br>
